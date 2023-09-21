@@ -22,4 +22,4 @@ Before I begin, it's essential to ensure I have the necessary tools and knowledg
 1. Clone this repository to my local machine:
 
    ```bash
-   git clone https://github.com/your-username/webpage-development-learning.git
+   git clone https://github.com/patryjas/webPage
