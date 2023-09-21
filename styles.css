@@ -21,6 +21,11 @@ header {
 /* Style the navigation menu */
 nav ul {
     list-style-type: none;
+    display: none; /* Hide the menu */
+}
+
+nav ul.show {
+    display: block;
 }
 
 nav ul li {
